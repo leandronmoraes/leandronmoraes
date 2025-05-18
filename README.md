@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 # ¡Hola! 👋 Soy Leandro Moraes<br><br>🔭 Actualmente estoy trabajando en:  <br>Proyectos académicos y personales vinculados al desarrollo web, automatización y análisis de datos. Estoy finalizando la carrera de **Licenciatura en Sistemas de Información**.<br><br>👯 Busco colaborar en:  <br>Proyectos de desarrollo backend o automatización de tareas, especialmente con **Node.js**, **Python** o herramientas no-code como **Make (Integromat)**.<br><br>🤝 Estoy buscando ayuda con:  <br>Optimización de integraciones entre APIs, buenas prácticas en desarrollo con **.NET** y **JavaScript**, y despliegue de aplicaciones en la nube.<br><br>🌱 Actualmente estoy aprendiendo:  <br>Arquitectura de software, DevOps.<br><br>💬 Preguntame sobre:  <br>Mi experiencia en **automatización con Make**, desarrollo de aplicaciones web con **CodeIgniter + Bootstrap**, o cómo organizo y llevo adelante mis proyectos de estudio.<br><br>⚡ Dato curioso:  <br>Me encanta desarmar problemas complejos y volver a armarlos paso a paso (por algo me apasiona la programación 😄).<br>
 
 
-## 🌐 Socials:
+## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_moraesleandro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leandronmoraes/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leandromoraes.unne@gmail.com) 
 
 # 💻 Tech Stack:
